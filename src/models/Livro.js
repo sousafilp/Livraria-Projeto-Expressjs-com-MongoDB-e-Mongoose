@@ -16,7 +16,7 @@ const livroSchema = new mongoose.Schema(
     preco: {
       type: Number,
     },
-    pagina: {
+    paginas: {
       type: Number,
     },
   },
