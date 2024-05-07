@@ -25,6 +25,6 @@ As requisições `POST` e `PUT` devem enviar os dados no formato JSON no corpo d
   "titulo": "O Senhor dos Anéis",
   "editora": "Martins Fontes",
   "preco": 59.90,
-  "pagina": 1024
+  "paginas": 1024
 }
 
